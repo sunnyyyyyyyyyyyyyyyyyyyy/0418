@@ -1,0 +1,6 @@
+question,option1,option2,option3,option4,answer,type
+作品的作者是=?,正方形,正圓形,正中媛心,鄭媛心,鄭媛心,choice
+作者的科系是=?,教育學系,教育科技,教育科學,教育傳播,教育科技,choice
+請輸入作者的年齡的答案,,,,,19,fill
+請輸入作者喜歡的數字,,,,,7,fill
+
